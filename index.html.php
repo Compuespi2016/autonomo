@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pagina Escolha</title>
-    <link rel="stylesheet" href="css/pages/home.css">
     <link rel="stylesheet" media="Screen and (max-width: 700px)" href="css/mobile.css">
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
 </head>
 <body>
