@@ -23,7 +23,7 @@ $result = mysqli_query($con,"SELECT * FROM usuarios WHERE nome_user = '$login' a
 		$_SESSION['login'] = $login;
 		$_SESSION['senha'] = $senha;
 		
-		$_SESSION['pontuacao'] = $pont;
+		$_SESSION['pontuacao'] = 1;
 		$_SESSION['id'] = $id;
 
 		header('location:index.html.php');
